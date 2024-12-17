@@ -51,8 +51,10 @@ The dataset I will be working with includes the following columns:
 •	Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share plug in hybrid models.
 
 ## Data Cleaning and Preprocessing
-•	 There was no Duplicates in the dataset
+•	 There was no Duplicates in the dataset\
+
 •	No blanks in the dataset
+
 ## Tools Used:
 •	Microsoft Excel
 •	Tableau
@@ -99,3 +101,7 @@ o	Georgia has only (5 registered electric vehicles), Missouri (4 vehicles), Nebr
 5.	Manufacturer of electric vehicles and their sales teams should target high adoption regions for marketing campaigns and dealership expansion. They should also consider local government partnerships to leverage state specific incentives.
 6.	Analyses of success factors behind leading models like tesla model Y(28,501) should be done by manufacturers of  EV to  inform future vehicle development. Identifying key features that drive demand such as design, range, and pricing, will help improve market fit.
 7.	Collaboration between automakers and utility providers can optimize charging infrastructure rollout. Utilities should focus on enhancing their services to meet the growing demand for EV charging stations particularly in high -density urban areas and new EV hotspots.
+   
+ELECTRIC VEHICLES ANALYSIS DASHBORD.
+   ![image](https://github.com/user-attachments/assets/f79202ea-0285-424c-8097-f932fdc7d880)
+
