@@ -60,26 +60,32 @@ The dataset I will be working with includes the following columns:
 •	Tableau
 
 ## Findings
+
 1. EV Type Distribution
 •	Battery Electric Vehicles (BEVs):77.6%
 •	Plug-in Hybrid Electric Vehicles (PHEVs):22.4%
 BEVS dominate, reflecting a preference for fully electric vehicles over hybrids
 registered.
 2. Top Brands and Models
-•	Market share by Brands:
-1.	Tesla leads with 45.8% of registrations, followed by Nissan (8.9%) and Chevrolet (7.9%).
-2.	Other notable brands include Ford, BMW, and Kia.
+- Market share by Brands:
+- Tesla leads with 45.8% of registrations, followed by Nissan (8.9%) and Chevrolet (7.9%).
+- Other notable brands include Ford, BMW, and Kia.
 
 3. Adoption Trends (Year-on-Year Growth)
-•	Key Years of growth:
-1.	2011: There was massive growth (3216.6%), which may be due to policy incentives or new EV launches.
-2.	2018-2022: There was consistent growth in adoption, peaking in 2021 with a 65.4% increase.
-3.	Decline in 2024 due to limited data or new market dynamics.
    
+	Key Years of growth:
+
+	- In year 2011 there was massive growth of 3216.6% which may be due to policy incentives or new EV launches.
+ 
+   - From year 2018 till 2022 there was consistent growth in adoption,peaking in 2021 with a 65.4% increase.
+     
+   - There was decline in 2024 due to limited data or new market dynamics.
+   
+  
 4.Geographical Analysis
    
 •	 Top 5 States
-o	Washington (150,082 vehicles) leads by wide margin, followed by California (92 registered electric vehicles), Maryland (33 registered electric vehicles), Texas (20 registered electric vehicles) and North Carolina (13 registered electric vehicles).
+o Washington (150,082 vehicles) leads by wide margin, followed by California (92 registered electric vehicles), Maryland (33 registered electric vehicles), Texas (20 registered electric vehicles) and North Carolina (13 registered electric vehicles).
 
 •	Bottom 5 States
 o	Georgia has only (5 registered electric vehicles), Missouri (4 vehicles), Nebraska, Louisiana, Alabama, Kentucky and Massachusetts have only (3 registered electric vehicles) each, Wyoming, Idaho, Kansas, Indiana, Ohio, Arkansas and Utah have only (2 registered electric vehicle) each, Montana, Minnesota and Mississippi have only (1 registered electric vehicle each.
