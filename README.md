@@ -51,7 +51,7 @@ The dataset I will be working with includes the following columns:
 •	Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share plug in hybrid models.
 
 ## Data Cleaning and Preprocessing
-•	 There was no Duplicates in the dataset\
+•	 There were no Duplicates in the dataset
 
 •	No blanks in the dataset
 
